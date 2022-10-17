@@ -1,7 +1,6 @@
 ### <h1> ***💻 Hello Friend*** 👋</h1>
 
-
-<br><h3>**💲 My projects :**</h3>
+**<h3>💲 My projects :</h3>**
 
 - [SpamBot in python ](https://github.com/rootZer0day/SpamBot)
 - [Duckino](https://github.com/rootZer0day/Duckino)
