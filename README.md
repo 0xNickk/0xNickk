@@ -1,5 +1,6 @@
-![ascii-6](https://user-images.githubusercontent.com/96845504/199112225-2aa78232-4bcd-43df-8ab5-c4eb2399c051.png)
 
+
+![ascii-6](https://user-images.githubusercontent.com/96845504/199112587-7eef4d36-18cb-410a-afda-649e1467aec4.png)
 
 
 ### <h1> ***💻 Hello Friend*** 👋</h1>
