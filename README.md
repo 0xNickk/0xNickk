@@ -1,9 +1,8 @@
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/96845504/199112587-7eef4d36-18cb-410a-afda-649e1467aec4.png">
+ </p>
 
-
-![ascii-6](https://user-images.githubusercontent.com/96845504/199112587-7eef4d36-18cb-410a-afda-649e1467aec4.png)
-
-
-### <h1> ***💻 Hello Friend*** 👋</h1>
+<h1 align = "center">💻 Hello Friend  👋</h1>
 
 **<h3>💲 My projects :</h3>**
 
