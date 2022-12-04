@@ -11,7 +11,7 @@
 
  **<h3>💲 Contact me :</h3>** 
 - **z3ro.d4y0@protonmail.com**
-- **https://t.me/Zero0Dat**
+- **https://t.me/ImZer0Day**
 
 <br>
 
