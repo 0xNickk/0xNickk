@@ -7,7 +7,6 @@
 **<h3>💲 My projects :</h3>**
 - [I LogYou](https://github.com/rootZer0day/ILogYou)
 - [SpamBot](https://github.com/rootZer0day/SpamBot)
-- [Duckino](https://github.com/rootZer0day/Duckino)
 
  **<h3>💲 Contact me :</h3>** 
 - **z3ro.d4y0@protonmail.com**
