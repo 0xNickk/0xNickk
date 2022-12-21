@@ -9,8 +9,9 @@
 - [I LogYou](https://github.com/rootZer0day/ILogYou)
 - [SpamBot](https://github.com/rootZer0day/SpamBot)
 
- **<h3>💲 Contact me :</h3>** 
-<p align = "left" <a href = "mailto:z3ro.d4y0@protonmail.com"> <img src = "https://user-images.githubusercontent.com/96845504/208948025-dce159df-1bc7-48eb-a4e0-5df41cb87893.png" width = "55"  height = "55"> <a href = "https://t.me/ImZer0Day"> <img src = "https://user-images.githubusercontent.com/96845504/208946509-cc183dcd-a91f-4eb0-9317-20a20d624501.png" width = "55"  height = "55"> </p>
+**<h3>💲 Contact me :</h3>** 
+<p aling = "left">
+<a href = "mailto:z3ro.day0@protonmail.com"> <img src = "https://user-images.githubusercontent.com/96845504/208948025-dce159df-1bc7-48eb-a4e0-5df41cb87893.png" width = "55"  height = "55"> <a href = "https://t.me/ImZer0Day"> <img src = "https://user-images.githubusercontent.com/96845504/208946509-cc183dcd-a91f-4eb0-9317-20a20d624501.png" width = "55"  height = "55"> </p>
 
 
  **<h3>💲 Languages and Tools:</h3>** 
