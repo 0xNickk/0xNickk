@@ -19,6 +19,6 @@
 
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rootZer0day&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rootZer0day&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
