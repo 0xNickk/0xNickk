@@ -3,6 +3,7 @@
  </p>
 
 <h1 align = "center">💻 Hello Friend  👋</h1>
+<p align = "right"> <img src = "https://komarev.com/ghpvc/?username=rootZer0day&color=blueviolet&plastic" </p>
 
 **<h3>💲 My projects :</h3>**
 - [I LogYou](https://github.com/rootZer0day/ILogYou)
