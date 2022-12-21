@@ -15,7 +15,7 @@
 <br>
 
  **<h3>💲 Languages and Tools:</h3>** 
- <p align = "left"> <img src = "https://user-images.githubusercontent.com/96845504/208944025-c9b13354-c804-4ccc-8feb-8cb5e7823841.svg" width = "50" height = "50"> <img src = "https://user-images.githubusercontent.com/96845504/208944570-ba7c5840-2e41-4f4d-8ca9-ce7876d6043b.svg" width = "50" height = "50"> <img src = "https://user-   images.githubusercontent.com/96845504/208944993-83334e54-c502-40b1-bbf1-c9ed43677d1a.svg" width = "50" height = "50"> <img src = "https://user-images.githubusercontent.com/96845504/208945160-569409fb-8be9-4cde-876c-56d21ee0658d.svg" width = "50" height = "50">
+<p align = "left"> <img src = "https://user-images.githubusercontent.com/96845504/208944025-c9b13354-c804-4ccc-8feb-8cb5e7823841.svg" width = "50" height = "50"> <img src = "https://user-images.githubusercontent.com/96845504/208944570-ba7c5840-2e41-4f4d-8ca9-ce7876d6043b.svg" width = "50" height = "50"> <img src = "https://user-images.githubusercontent.com/96845504/208945929-62a0ca35-7529-4e75-9c13-7d168eb11a47.svg" width = "50" height = "50"> <img src = "https://user-images.githubusercontent.com/96845504/208945160-569409fb-8be9-4cde-876c-56d21ee0658d.svg" width = "50" height = "50">
 
 
 
