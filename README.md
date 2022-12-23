@@ -3,7 +3,7 @@
  </p>
 
 <h1 align = "center">💻 Hello Friend  👋</h1>
-<p align = "right"> <img src = "https://komarev.com/ghpvc/?username=rootZer0day&color=blueviolet&plastic" </p>
+<p align = "right"> <img src = "https://komarev.com/ghpvc/?username=Im0day&color=blueviolet&plastic" </p>
 
 **<h3>💲 My projects :</h3>**
 - [I LogYou](https://github.com/rootZer0day/ILogYou)
@@ -19,6 +19,6 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ImZer0dayy&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Im0day&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
