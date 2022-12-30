@@ -6,7 +6,7 @@
 <p align = "right"> <img src = "https://komarev.com/ghpvc/?username=Im0day&color=blueviolet&plastic" </p>
 
 **<h3>💲 My projects :</h3>**
-- [I-LogYou](https://github.com/Im0day/ILogYou)
+- [I-LogYou](https://github.com/Im0day/I-LogYou)
 - [SpamBot](https://github.com/Im0day/SpamBot)
 
 **<h3>💲 Contact me :</h3>** 
