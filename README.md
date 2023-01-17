@@ -10,7 +10,7 @@
 
 **<h3 align = "center">Contact me</h3>** 
 <p align= "center">
-<a href = "mailto:Im0day@proton.me"> <a href = "https://t.me/Im0day"> <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> <img src = "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"> </p>
+<a href = "https://t.me/Im0day"> <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href = "mailto:Im0day@proton.me"> <img src = "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> </p>
 <br>
 
 
