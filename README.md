@@ -1,6 +1,6 @@
 <br>
 <p align = "right"> <img src = "https://komarev.com/ghpvc/?username=Im0day&color=blueviolet&plastic" </p>
-<h1 align = "center">💻 Hello Friend👋 , Im 0day</h1>
+<h1 align = "center">💻 Hello friend👋 , Im 0day</h1>
 
 <h3 align = "center"> Im an IT student, i like coding and passionate about Cybersecurity </p>
 
