@@ -1,11 +1,15 @@
 <br>
 <p align = "left"> 
 <img src = "https://komarev.com/ghpvc/?username=Im0day&color=blueviolet&plastic" </p>
+
+
 <p align = "left">Hey I'm 0day.</h1>
 
 
 <p align= "left">
-<a href = "https://t.me/Im0day"> <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+Contact me:</p>
+
+  - <a href = "https://t.me/Im0day">Telegram</a> 
 
 
 <br>
