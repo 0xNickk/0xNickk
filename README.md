@@ -9,7 +9,8 @@
 <p align= "left">
 Contact me:</p>
 
-  - <a href = "https://t.me/Im0day">Telegram</a> 
+  - <a  target="_blank"> href = "https://t.me/Im0day">Telegram</a>
+  - <a  target="_blank"> href = "mailto:Im0day@proton.me">Mail</a>
 
 
 <br>
