@@ -3,7 +3,7 @@
 <img src = "https://komarev.com/ghpvc/?username=Im0day&color=blueviolet&plastic" </p>
 
 
-<p align = "left">Hey I'm 0day.</h1>
+<p align = "left">Hey I'm 0xNick.</h1>
 
 
 <p align= "left">
